@@ -9,7 +9,7 @@ Tensorflow == 1.14.0
 OpenCV-Python
 
 ## Results
-![cc.JPG](./img/cc.JPG)
+![cc.PNG](./img/cc.PNG)
 ![result2.JPG](./img/result2.JPG)
 
 ## Usage
