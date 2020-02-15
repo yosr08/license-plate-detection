@@ -10,7 +10,6 @@ OpenCV-Python
 
 ## Results
 ![cc.PNG](./img/cc.PNG)
-![result2.JPG](./img/result2.JPG)
 
 ## Usage
 ### Run detection from image
